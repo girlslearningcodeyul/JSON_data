@@ -4,5 +4,11 @@
         "name": "Old Montreal",
         "latitude": "45.5075",
         "longitude": "-73.5544"
+    },
+    "MAC": {
+        "id": 2,
+        "name": "Musee d'Art Contemporain",
+        "latitude": "45.5077",
+        "longitude": "-73.5664"
     }
 }
